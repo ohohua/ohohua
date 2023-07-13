@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ohohua
-- 👀 I'm interested in Vue and react, including everything on the front end.
-- 🌱 I’m currently learning React，Nest.
-- 💞️ I’m looking to collaborate on develop Vue project.
+- 👀 I'm interested in Vue and Swift, including everything on the front end.
+- 🌱 I’m currently learning Flutter，Swift.
+- 💞️ I’m looking to collaborate on develop Flutter or Vue project.
 - 📫 How to reach me. Via email ohohua@163.com Contact me
 
 <!---
