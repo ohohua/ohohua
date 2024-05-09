@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @桃乐丝
-- 👀 I'm interested in Vue and Swift, including everything on the front end.
-- 🌱 I’m currently learning Flutter，Swift.
+- 👀 I'm interested in Vue and Nest, including everything on the front end.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on develop Flutter or Vue project.
 - 📫 How to reach me. Via email ohohua@163.com Contact me
 
