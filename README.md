@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @桃乐丝
 - 👀 I'am interested in the front end.
-- 🎮 The development languages ​​I am good at are JavaScript, TypeScript, and Dart
-- 🏗  Frameworks include Vue, React, Nuxt, Next, Nest, Electron, Uniapp and Flutter
+- 🎮 The development languages ​​I am good at are JavaScript, TypeScript and Node.
+- 🏗  Frameworks include Vue, React, Nuxt, Next, Nest, Electron and Uniapp.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on develop Flutter or Vue project.
 - 📫 How to reach me. Via email ohohua@163.com Contact me
